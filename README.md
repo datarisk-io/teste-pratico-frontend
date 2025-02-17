@@ -2,7 +2,7 @@ Criar uma aplicação utilizando React, a aplicação deve conter 3 páginas. da
 
 ## 1.	Sobre a página de login:
  
- -  A página de login deve ser um formulário que vai pedir 2 informações Nome e uma imagem. Essas informações devem ser persistidas localmente.
+ - A página de login deve ser um formulário que vai pedir 2 informações Nome e uma imagem. Essas informações devem ser persistidas localmente.
  - Após a autenticação, o usuário deve ser direcionado a uma página onde deve ser implementado uma listagem
  - Se ao acessar, já existir um usuário, o mesmo deve ser redirecionado para a o dashboard
  
@@ -10,7 +10,7 @@ Criar uma aplicação utilizando React, a aplicação deve conter 3 páginas. da
 ## 2.	Sobre a página de listagem
  As informações do usuário devem ser exibidas no header da aplicação, onde o clique nas informações dará a opção de logout.
  -	A listagem deve ser implementada com a api de pokémons: https://pokeapi.co/
- -	A paginação de preferência deve ser feita através de um scroll infinito. 
+ -	A paginação de deve ser feita através de um scroll infinito. 
 
 ## 3.	Sobre a página de detalhes
  A página de detalhes do pokémon pode ser exibida de 2 maneiras:
